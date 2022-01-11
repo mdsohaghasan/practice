@@ -13,6 +13,7 @@ h3{
 
 h4{
     color: chocolate;
+    font-size : 100px;
 }
 
 .div1 {
@@ -23,6 +24,10 @@ h4{
 
 p {
 color : red;
+<<<<<<< HEAD
 font-size:40px;
 
+=======
+    font-size: 80px;
+>>>>>>> 58498a48936c29e09c6f010bedc82b202d005242
 }

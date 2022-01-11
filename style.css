@@ -27,3 +27,8 @@ color : blue;
 font-size:20px;
 }
 
+span {
+    color: darkmagenta;
+    text-align: center;
+    font-size: 50px; 
+}
